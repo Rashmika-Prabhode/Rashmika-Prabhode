@@ -1,7 +1,7 @@
 ### Hi there ![](https://i.postimg.cc/9fKHJGyC/5.gif) I'm Rashmika Prabhode
 
 # 💫 About Me:
-🔭 I'm currently working on flutter mobile applications<br>👯 I'm looking to collaborate with any Open Enterprise Mobile applications<br>🤝 I'm currently looking for help with  backend development<br>💬 Ask me anything you want to know, I will answer within seconds<br>🗲 &nbsp;Fun fact: I absorb new knowledge by day and I wake up with upgraded programming skills. 😎💤🚀 <br><br>
+🔭 I'm currently working on Java and flutter mobile applications<br>👯 I'm looking to collaborate with any Enterprise applications<br>🤝 I'm currently looking for new knowledge<br>💬 Ask me anything you want to know, I will answer within seconds<br>🗲 &nbsp;Fun fact: I absorb new knowledge by day and I wake up with upgraded programming skills. 😎💤🚀 <br><br>
 
 
 ## 🌐 Socials:
